@@ -1,0 +1,8 @@
+GIT NOTES:-
+
+1) git --version --> To check current git version installed on your system.
+2) git status --> To check overall status of git repository.
+3) git init --> To initialize empty git repo.
+4) Architecture:
+Working directory --> Staging Area --> Git directory repo
+5) 
