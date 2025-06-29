@@ -5,4 +5,7 @@ GIT NOTES:-
 3) git init --> To initialize empty git repo.
 4) Architecture:
 Working directory --> Staging Area --> Git directory repo
-5) 
+5) git add . --> All files under that repo will be saved to staging area
+6) git commit -m "Version 1" --> To commit the changes saving it to git directory repo.
+7) git config --global user.email "aryandatsme26@gmail.com" - To add new/change email to global repo.
+8) git config --global user.name "Aryan Sharma" - To add new/change name to global repo.
