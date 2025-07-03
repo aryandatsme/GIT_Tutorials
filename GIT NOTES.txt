@@ -9,3 +9,6 @@ Working directory --> Staging Area --> Git directory repo
 6) git commit -m "Version 1" --> To commit the changes saving it to git directory repo.
 7) git config --global user.email "aryandatsme26@gmail.com" - To add new/change email to global repo.
 8) git config --global user.name "Aryan Sharma" - To add new/change name to global repo.
+9) git log --> To fetch all committed/saved details 
+10) git config --global user.name --> To fetch name
+11) git config --global user.email -->To fetch email
