@@ -25,4 +25,15 @@ Working directory --> Staging Area --> Git directory repo
 22) git add -u --> stages modified and deleted file, without new
 23) git pull --> Fetch all the changes done by any other user on the repository
 24) .git --> In this folder all the data regrading all the files is stored which helps to fetch that file in future
-25) 
+25) git clone https://github.com/aryandatsme/GIT_Tutorials.git --> To clone the folder from GitHub to local copy the url from GitHub repository download section (http or ssh if you have)
+26) ls -la --> Shows .git folder is generated which stores all the file data
+27) git branch --> To verify how many branches are present in a repository
+28) git branch new-test --> To add new branch its name is new-test
+29) git checkout new-test --> To switch from master to new-test branch
+30) git push -u origin new-test -> To add new branch and push it into GitHub from local
+31) git checkout master --> To comeback in master branch
+32) git merge new-testing --> To merge new-test branch files into master
+33) git push -u origin master --> To push the changes to GitHub
+34) git branch -d new-test --> It will delete branch new-test but it won't update on GitHub.
+35) git branch origin --delete new-test --> It will delete the new-test branch from GitHub too.
+36) -u origin master --> We use -u so that from next time even if we run git push it will work.
