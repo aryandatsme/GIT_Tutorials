@@ -23,3 +23,6 @@ Working directory --> Staging Area --> Git directory repo
 20) git add . --> Stages new and modified file, without deleting
 21) git add -A --> Stages all file
 22) git add -u --> stages modified and deleted file, without new
+23) git pull --> Fetch all the changes done by any other user on the repository
+24) .git --> In this folder all the data regrading all the files is stored which helps to fetch that file in future
+25) 
