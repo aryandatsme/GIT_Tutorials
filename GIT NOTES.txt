@@ -12,3 +12,6 @@ Working directory --> Staging Area --> Git directory repo
 9) git log --> To fetch all committed/saved details 
 10) git config --global user.name --> To fetch name
 11) git config --global user.email -->To fetch email
+12) git remote add origin https://github.com/aryandatsme/GIT_Tutorials.git --> To setup origin connection with your local machine and GitHub.
+13) git push -u origin master --> To commit and push all the saved updates from local to GitHub
+14) git pull origin master --> To commit and pull all the saved updates from GitHub to local
