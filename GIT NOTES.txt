@@ -15,3 +15,4 @@ Working directory --> Staging Area --> Git directory repo
 12) git remote add origin https://github.com/aryandatsme/GIT_Tutorials.git --> To setup origin connection with your local machine and GitHub.
 13) git push -u origin master --> To commit and push all the saved updates from local to GitHub
 14) git pull origin master --> To commit and pull all the saved updates from GitHub to local
+15) git diff utils.txt --> To check what is added or removed in the file
