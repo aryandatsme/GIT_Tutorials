@@ -17,3 +17,9 @@ Working directory --> Staging Area --> Git directory repo
 14) git pull origin master --> To commit and pull all the saved updates from GitHub to local
 15) git diff --> To check what is added or removed in the local repository
 16) git diff --staged --> To check what is added or removed in the staged area(once add . is triggered)
+17) git reset Fil1.tst --> To reset the changes saved in staged area 
+18) git checkout File1.tst --> To delete the changes done in local file it will automatically reset.
+19) git checkout . --> Reset the file till last commit.
+20) git add . --> Stages new and modified file, without deleting
+21) git add -A --> Stages all file
+22) git add -u --> stages modified and deleted file, without new
